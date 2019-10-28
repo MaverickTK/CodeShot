@@ -25,7 +25,7 @@ def add():
     #         numbers.append(num)
 
     # Approach Two
-    # numbers_string = input("Enter comma separated integer value : ")
+    # numbers_string = input("Enter comma separated integer value - ")
     #'1,2,3,4,5,6,7,8,9,10'
     numbers = get_input()
     sum = 0
